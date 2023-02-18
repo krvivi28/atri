@@ -30,13 +30,13 @@ export default function Menucard() {
         <div className="down">
           <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
             <a
-              className=" mx-2 btn btn-secondary btn-sm"
+              className=" mx-2 btn btn-secondary "
               href="/import"
               role="button"
             >
               Book a table
             </a>
-            <a className="mx-2 btn echo btn-sm" href="/export" role="button">
+            <a className="mx-2 btn echo " href="/export" role="button">
               Order Online
             </a>
           </div>
