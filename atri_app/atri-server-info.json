@@ -4,10 +4,12 @@
   "publicDir": "dist/app",
   "pages": {
     "/": {
-      "name": "Home"
+      "name": "Main"
     }
   },
   "publicUrlAssetMap": {
-    "/app-assets": "..\\assets"
+    "/app-assets": "..\\assets",
+    "organizationName": "krvivi28",
+    "projectName": "atri"
   }
 }
